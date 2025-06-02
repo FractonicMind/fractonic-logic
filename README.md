@@ -46,6 +46,7 @@ Fork this project and experiment with new directions.
 
 Connect with us on Medium for deeper insights.
 ---
+👉 [Connect with us on Medium for deeper insights.](https://medium.com/@leogouk)
 
 📚 Related Reading
 
