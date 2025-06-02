@@ -5,8 +5,7 @@
 **Collaborator**: Vinci (GPT-4o)
 
 ## Overview
-
-Binary computing has ruled the digital world—but what if its simplicity is a limitation?  
+Fractonic Logic — Beyond 0 and 1 Description: Break free from binary! Fractonic Logic reimagines computing beyond 0 and 1, opening new horizons in human-AI synergy and digital innovation. Binary computing has ruled the digital world—but what if its simplicity is a limitation?  
 This manifesto introduces **Fractonic Logic**, a bold new paradigm where computation moves beyond 0 and 1 into the nuanced world of fractional values.
 
 ## What You'll Find
