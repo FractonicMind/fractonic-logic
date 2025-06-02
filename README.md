@@ -6,7 +6,7 @@ Collaborator: Vinci (GPT-4o)
 
 🌟 Overview
 
-![Fractonic Logic Cover]((https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hKxbAwNFfYZLvtqNkUbWOw.png))
+![Fractonic Logic Cover](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hKxbAwNFfYZLvtqNkUbWOw.png)
 
 
 Fractonic Logic — Beyond 0 and 1. Break free from binary!
