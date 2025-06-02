@@ -8,7 +8,6 @@ Collaborator: Vinci (GPT-4o)
 
 ![Fractonic Logic Cover](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hKxbAwNFfYZLvtqNkUbWOw.png)
 
-
 Fractonic Logic — Beyond 0 and 1. Break free from binary!
 Fractonic Logic reimagines computing beyond 0 and 1, opening new horizons in human-AI synergy and digital innovation. Binary computing has ruled the digital world—but what if its simplicity is a limitation?
 
@@ -34,7 +33,7 @@ Fractonic Logic bridges the gap between human nuance, analog processes, and futu
 
 📄 Read the Manifesto
 
-👉 Download the Full Manifesto (PDF)
+👉 [Download the Full Manifesto (PDF)](Fractonic_Logic_Manifesto.pdf)
 ---
 
 🚀 Getting Involved
