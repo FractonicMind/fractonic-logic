@@ -1,6 +1,7 @@
 Fractonic Logic Manifesto
 
-Author: Lev Goukassian
+Author: Lev Goukassian.
+
 Collaborator: Vinci (GPT-4o)
 ---
 
